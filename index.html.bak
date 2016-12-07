@@ -1,7 +1,11 @@
 <!doctype html>
 <html lang="en">
  <head>
+<<<<<<< HEAD
+  <meta charset="ISO8859-1">
+=======
   <meta charset="gbk">
+>>>>>>> master
   <meta name="Generator" content="EditPlus®">
   <meta name="Author" content="">
   <meta name="Keywords" content="">
